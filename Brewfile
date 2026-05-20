@@ -62,7 +62,7 @@ cask 'notion'
 cask 'spotify'
 cask 'macdown-3000'
 cask 'surfshark'
-cash 'brainfm'
+cask 'brainfm'
 cask 'vlc'
 
 
