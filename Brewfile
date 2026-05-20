@@ -31,11 +31,10 @@ brew 'imagemagick'
 brew 'yarn'
 
 # Apps
-cask '1password'
-brew '1password-cli'
 cask 'caffeine'
 cask 'claude'
 cask 'claude-code'
+cask 'claudebar'
 cask 'cleanshot'
 cask 'codex'
 cask 'codex-app'
@@ -46,30 +45,22 @@ cask 'cyberduck'
 cask 'discord'
 cask 'docker'
 cask 'figma'
-cask 'firefox'
 cask 'github'
 cask 'google-chrome'
 cask 'helo'
 cask 'herd'
 cask 'httpie'
 cask 'imageoptim'
-cask 'loom'
 cask 'pastebot'
-cask 'reflex'
-cask 'screen-studio'
-cask 'slack'
 cask 'tableplus'
-cask 'telegram-desktop'
 cask 'the-unarchiver'
-cask 'tinkerwell'
-cask 'transmit'
 cask 'tunnelbear'
 cask 'tuple'
 cask 'visual-studio-code'
 cask 'zoom'
 
+cask 'macdown-3000'
+
 # Mac App Store
 mas 'Keynote', id: 409183694
-mas 'MyWoosh', id: 1498889644
-mas 'Numbers', id: 409203825
 mas 'Speedtest', id: 1153157709
