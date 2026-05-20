@@ -1,5 +1,4 @@
 # Taps
-tap 'homebrew/cask-versions'
 tap 'stripe/stripe-cli'
 
 # Binaries
