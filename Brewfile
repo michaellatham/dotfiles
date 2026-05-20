@@ -63,6 +63,7 @@ cask 'macdown-3000'
 cask 'surfshark'
 cask 'brainfm'
 cask 'vlc'
+cask 'iterm2'
 
 
 
