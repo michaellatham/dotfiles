@@ -34,7 +34,6 @@ brew 'yarn'
 cask 'caffeine'
 cask 'claude'
 cask 'claude-code'
-cask 'claudebar'
 cask 'cleanshot'
 cask 'codex'
 cask 'codex-app'
@@ -54,12 +53,16 @@ cask 'imageoptim'
 cask 'pastebot'
 cask 'tableplus'
 cask 'the-unarchiver'
-cask 'tunnelbear'
-cask 'tuple'
 cask 'visual-studio-code'
 cask 'zoom'
 
+cask 'claudebar'
+cask 'notion'
+cask 'spotify'
 cask 'macdown-3000'
+cask 'surfshark'
+cash 'brainfm'
+
 
 # Mac App Store
 mas 'Keynote', id: 409183694
