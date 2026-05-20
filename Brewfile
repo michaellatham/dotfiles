@@ -18,6 +18,7 @@ brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'stripe/stripe-cli/stripe'
 brew 'stripe/stripe-mock/stripe-mock'
+brew 'cloudflared'
 
 # Spatie Medialibrary
 brew 'jpegoptim'
@@ -62,6 +63,8 @@ cask 'spotify'
 cask 'macdown-3000'
 cask 'surfshark'
 cash 'brainfm'
+cask 'vlc'
+
 
 
 # Mac App Store
